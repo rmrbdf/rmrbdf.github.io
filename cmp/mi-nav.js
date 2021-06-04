@@ -45,7 +45,7 @@ class MiNav extends HTMLElement {
           </li>`;
       }
       /* Enlaces para solo
-       * para administradores.
+       * administradores.
        */
       if (roles.has(
         "Administrador")) {
